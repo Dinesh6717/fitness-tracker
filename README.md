@@ -24,7 +24,7 @@ Installation & Setup
 
 1. Clone the Repository
    
-git clone https://github.com/your-username/Personal-Fitness-Tracker.git
+git clone https://github.com/Dinesh6717/fitness-tracker
 cd Personal-Fitness-Tracker
 
  2. Install Dependencies  
@@ -70,7 +70,7 @@ Contributing
 Contributions are welcome! If you’d like to improve the project:  
 
 1. Fork the repository  
-2. Create a new branch (`feature-xyz`)  
+2. Create a new branch   
 3. Commit your changes  
 4. Push the branch  
 5. Open a Pull Request  
